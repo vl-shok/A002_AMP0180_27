@@ -71,7 +71,7 @@ Designed for professional lab use and prototyping environments.
 ## 📝 Notes
 
 - Only **plated through-hole** vias are used in this design.
-- No blind/buried vias or impedance control required.
+- No blind/buried vias.
 - Files are optimized for use with **JLCPCB**, but compatible with most manufacturers.
 
 ---
